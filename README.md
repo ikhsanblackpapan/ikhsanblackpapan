@@ -7,7 +7,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img src=https://github-profile-trophy.vercel.app/?username=ikhsanblackpapan&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
