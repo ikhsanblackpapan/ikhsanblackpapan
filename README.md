@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Brother 👋
 
 <p align="center">
     <a href="https://youtube.com/@patchmann251">
