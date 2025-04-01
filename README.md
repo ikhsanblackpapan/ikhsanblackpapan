@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://youtube.com/@patchmann251">
-      <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120" />
+      <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="130" />
     </a>
 </p>
 
