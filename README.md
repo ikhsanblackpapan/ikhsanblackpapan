@@ -11,8 +11,7 @@
   <img src=https://github-profile-trophy.vercel.app/?username=ikhsanblackpapan&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
 
 
