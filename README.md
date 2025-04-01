@@ -11,8 +11,10 @@
   <img src=https://github-profile-trophy.vercel.app/?username=ikhsanblackpapan&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/repos)](https://githubtrends.io)
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/ikhsanblackpapan/repos](https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&loc_metric=changed&theme=bright_lights))](https://githubtrends.io)
 
+
+https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&loc_metric=changed&theme=bright_lights
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
