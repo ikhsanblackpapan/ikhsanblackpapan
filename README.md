@@ -19,6 +19,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
+<hr>
+
 
 
 <p align="center">
