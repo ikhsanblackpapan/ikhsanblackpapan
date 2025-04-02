@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.JS" />
+  <img src="https://img.shields.io/badge/NEXT.JS-00712D?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.JS" />
   <img src="https://img.shields.io/badge/REACT-222222?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-35495E?style=for-the-badge&logo=tailwindcss&logoColor=08C2FF" alt="TAILWINDCSS" />
   <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="ANGULAR" />
