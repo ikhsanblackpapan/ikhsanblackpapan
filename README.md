@@ -20,3 +20,13 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ikhsanblackpapan/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-ESP32-blue?style=for-the-badge&logo=esp32" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-FreeRTOS-blue?style=for-the-badge&logo=rtos" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge&logo=ai" alt="AI" />
+  <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
+</p>
